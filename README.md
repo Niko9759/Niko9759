@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h1 align="center">🧚‍♂️ HELLOW IAM NIKO-PAMIYA</h1>
+<h1 align="center">🧚‍♂️ HELLOW IAM Deexxxx</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 <br>
 <div style ="display:flex;" align="center">
@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 ...
 
 <div align="center">
-<a href="https://github.com/NIKO-PAMIYA" target="_blank">
+<a href="https://github.com/Deexxx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://wa.me/+94743595243">
+<a href="https://wa.me/+94779697328">
 <img src=https://img.shields.io/badge/whatsapp-%2300acee.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/share/rDpoN8bjWYXjtE9N/" target="_blank">
