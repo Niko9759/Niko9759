@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 - ❓ You can Email Me Through [Here](mailto:slpamya58@gmail.com)
 
 ...
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deexxx&label=Profile%20views&color=0e75b6&style=flat" alt="niko-pamiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Deexxx&label=Profile%20views&color=0e75b6&style=flat" alt="Deexxx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niko-pamiya" alt="niko-pamiya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deexxx" alt="Deexxx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 ...
